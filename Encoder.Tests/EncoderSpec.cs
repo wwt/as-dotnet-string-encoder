@@ -28,7 +28,7 @@ namespace Service.Tests
         {
             var stopWatch = new Stopwatch();
             stopWatch.Start();
-            Assert.Equal(expected, new EncoderProcessor().Encode(toEncode));
+            Assert.Equal(expected, EncoderProcessor.Encode(toEncode));
             stopWatch.Stop();
             Console.WriteLine("Memory (MB): " + (GC.GetTotalMemory(false) * 0.000001) );
             Console.WriteLine("Runtime: " + stopWatch.ElapsedMilliseconds + "ms");
