@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="CharacterMappings.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="CharacterMappings.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
 </Project>

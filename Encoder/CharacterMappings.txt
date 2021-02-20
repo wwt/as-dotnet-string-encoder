@@ -1,0 +1,27 @@
+a,1
+b,a
+c,b
+d,c
+e,2
+f,e
+g,f
+h,g
+i,3
+j,i
+k,j
+l,k
+m,l
+n,m
+o,4
+p,o
+q,p
+r,q
+s,r
+t,s
+u,5
+v,u
+w,v
+x,w
+y, 
+z,y
+ ,y
