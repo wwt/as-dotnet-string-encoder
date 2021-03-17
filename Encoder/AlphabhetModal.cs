@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace encoder
+namespace Encoder
 {
     public class AlphabhetModal
     {
