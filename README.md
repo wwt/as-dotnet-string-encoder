@@ -2,6 +2,14 @@
 
 If you're applying for a .NET development position at World Wide Technology Application Services then this is the repo for you!
 
+** Note: ** This problem can be solved using the freely available [Visual Studio Code](https://code.visualstudio.com) and [.NET Core](https://dotnet.microsoft.com/download). Once you have downloaded and installed these dependencies use the command:
+
+```
+dotnet test
+```
+
+to run the unit tests. You can also run the command `dotnet clean` prior to creating an archive of your code solution to send to us.
+
 ### Instructions
 
 Your challenge is to implement a string encoding function that will parse input strings into the desired output strings.
