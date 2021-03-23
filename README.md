@@ -2,7 +2,7 @@
 
 If you're applying for a .NET development position at World Wide Technology Application Services then this is the repo for you!
 
-** Note: ** This problem can be solved using the freely available [Visual Studio Code](https://code.visualstudio.com) and [.NET Core](https://dotnet.microsoft.com/download). Once you have downloaded and installed these dependencies use the command:
+**Note:** This problem can be solved using the freely available [Visual Studio Code](https://code.visualstudio.com) and [.NET Core](https://dotnet.microsoft.com/download). Once you have downloaded and installed these dependencies use the command:
 
 ```
 dotnet test
